@@ -1,8 +1,6 @@
 node_modules/
 packages/*/pnpm-lock.yaml
 dist/
-.env
-.env.local
 *.tsbuildinfo
 coverage/
 *.log
@@ -12,3 +10,7 @@ Thumbc.db
 packages/core/smoke-test-fixture/
 *.tgz
 .idea/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
